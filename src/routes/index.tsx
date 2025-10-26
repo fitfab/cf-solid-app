@@ -14,6 +14,7 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
+      <p>This is anothe deployment: ./.output/public</p>
     </main>
   );
 }

@@ -15,6 +15,7 @@ export default function Home() {
         to learn how to build SolidStart apps.
       </p>
       <p>This is anothe deployment: ./.output/public</p>
+      <p>change output to: vinxi/build</p>
     </main>
   );
 }

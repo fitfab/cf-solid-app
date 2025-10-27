@@ -16,6 +16,7 @@ export default function Home() {
       </p>
       <p>This is anothe deployment: ./.output/public</p>
       <p>change output to: vinxi/build</p>
+      <p>build folder: .output</p>
     </main>
   );
 }
